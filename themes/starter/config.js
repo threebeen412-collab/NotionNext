@@ -223,11 +223,11 @@ const CONFIG = {
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: false, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_TITLE: '课程划分',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
+  STARTER_BLOG_TEXT_1: '最新的课程安排',
   STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+    '',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
@@ -236,7 +236,7 @@ const CONFIG = {
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
   STARTER_CONTACT_LOCATION_TEXT: 'VIC，Melbourn',
   STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
+  STARTER_CONTACT_EMAIL_TEXT: 'wx: Threebeanscollege1',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://docs.google.com/forms/d/e/1FAIpQLSfriLiEiW19M6KNdPajaSXf5VEECg-vnK0TenwbkCOJoPDhmQ/viewform?usp=header', // 基于NoteForm创建，将留言数据存在Notion中
