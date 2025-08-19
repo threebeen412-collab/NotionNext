@@ -34,9 +34,9 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'Three Been 的主要特性', // 特性
+  STARTER_FEATURE_TEXT_1: 'Three Bean 的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
-    'ThreeBeen的愿景是成为本地学生与家长最信赖的学习伙伴，让每一位学员都能自信迎接学业挑战，迈向更广阔的未来。', // 特性
+    'ThreeBean的愿景是成为本地学生与家长最信赖的学习伙伴，让每一位学员都能自信迎接学业挑战，迈向更广阔的未来。', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '为学生量身定制', // 特性1
   STARTER_FEATURE_1_TEXT_1: '为学生量身定制学习方案，激发潜能与兴趣，帮助他们在学业上取得突破', // 特性1
